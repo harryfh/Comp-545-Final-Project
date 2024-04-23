@@ -1,0 +1,2914 @@
+[
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1815_f91d6f546e63f20d/img5.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1815_f91d6f546e63f20d/img3.jpg",
+        "caption": "A deer head is mounted horizontally next to a painting",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1815_f91d6f546e63f20d/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1815_f91d6f546e63f20d/img9.jpg",
+        "caption": "Some green grass is seen in the lower right corner next to a sculpture of some birds above flowers. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1815_f91d6f546e63f20d/img3.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1815_f91d6f546e63f20d/img1.jpg",
+        "caption": "There is a fossil structure with a head, two arms, and a long spine.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7047-shot1_0/img112.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7047-shot1_0/img39.jpg",
+        "caption": "the transition image into the one of the lady in blue from the one where bags where hang up",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7047-shot1_0/img113.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7047-shot1_0/img82.jpg",
+        "caption": "Two girls are clearly shown, and the girl toward the center of the image has both hands pointing leftward with fingers spread.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7047-shot1_0/img123.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7047-shot1_0/img112.jpg",
+        "caption": "Two girls are shown. The girl in brown is turned more toward the girl in blue. The girl in blue is looking straight ahead.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9787-shot1_0/img75.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9787-shot1_0/img55.jpg",
+        "caption": "There is a grey monument wall that is located between the black girl and the girl in the middle. The black girl is facing to the left.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9787-shot1_0/img83.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9787-shot1_0/img62.jpg",
+        "caption": "There is a man in a white shirt and black pants to the left of the girls. He is the only person behind them that is completely visible. He is not touching the edge of the frame.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_2/img584.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_2/img668.jpg",
+        "caption": "You can see the woman on the far right's face really well. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_2/img642.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_2/img698.jpg",
+        "caption": "The person with the white shirt  over her butt is really bent over far with her hands at her back. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_2/img668.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_2/img584.jpg",
+        "caption": "The woman on the right has her mouth wide open and her eyes wide.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-411_480d72ee0f97da49/img1.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-411_480d72ee0f97da49/img3.jpg",
+        "caption": "A white object that has a lot of rust on it.  There is a pipe sticking out of the top of the white object and another larger pipe that is just seen at the top of the image. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-411_480d72ee0f97da49/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-411_480d72ee0f97da49/img6.jpg",
+        "caption": "Three pieces of hardware sitting on the edge of a sink.  The piece on the right is all black. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-411_480d72ee0f97da49/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-411_480d72ee0f97da49/img4.jpg",
+        "caption": "Single sink with a white stopper on the right top. The inside of the sink is brown and gross around the drain.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7020-shot1_1/img181.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7020-shot1_1/img178.jpg",
+        "caption": "The white rolling pin is centered on the yellow item, and it isn't badly double exposed.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7020-shot1_1/img186.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7020-shot1_1/img180.jpg",
+        "caption": "There is an equal amount of yellow and white between both hands",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0037-shot3_0/img223.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0037-shot3_0/img133.jpg",
+        "caption": "You only see the spoon right above the salad. You can see a very small blur of one finger. The mixing haven't started. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0037-shot3_0/img396.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0037-shot3_0/img199.jpg",
+        "caption": "small particles of something is sprinkle on the food inside the bowl, no finger is visible",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0037-shot3_0/img515.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0037-shot3_0/img557.jpg",
+        "caption": "The spoon is at the top right corner, it is not moving any of the food.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8886-shot1_1/img45.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8886-shot1_1/img47.jpg",
+        "caption": "The person sitting down in the background in a chair has their hands behind their head.  There is a person with a blue Hawaiian shirt on the right side of the picture. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8282-shot0_0/img21.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8282-shot0_0/img27.jpg",
+        "caption": "Just the first letter in the text at the bottom has completely faded away.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8282-shot0_0/img24.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8282-shot0_0/img20.jpg",
+        "caption": "Half of the 2nd word of the text is faded and can't be read.  ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8282-shot0_0/img27.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8282-shot0_0/img21.jpg",
+        "caption": "She is holding the fur up and two painted fingernails are visible. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1679_29fd4eed473ea3aa/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1679_29fd4eed473ea3aa/img6.jpg",
+        "caption": "A person in color writing at a desk with a blue pen. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1679_29fd4eed473ea3aa/img9.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1679_29fd4eed473ea3aa/img7.jpg",
+        "caption": "A picture in black and white of a laptop computer with a cat on the right side of the image. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1679_29fd4eed473ea3aa/img5.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1679_29fd4eed473ea3aa/img3.jpg",
+        "caption": "The small notebook is opened with a pen and a pair of glasses on top.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1707_3d0db43966754e82/img1.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1707_3d0db43966754e82/img3.jpg",
+        "caption": "A woman has her tongue between her teeth which covers most of her top teeth. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1707_3d0db43966754e82/img4.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1707_3d0db43966754e82/img6.jpg",
+        "caption": "A singer is facing and pointing towards the right hand side of the picture. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1707_3d0db43966754e82/img3.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1707_3d0db43966754e82/img5.jpg",
+        "caption": "She has a pink stripe in her braided hair, and is holding a green bowl.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8282-shot1_1/img21.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8282-shot1_1/img25.jpg",
+        "caption": "the first two letters of the third word have the left hand in the background of them",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8282-shot1_1/img22.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8282-shot1_1/img27.jpg",
+        "caption": "Hands are stretching out a piece of fur. Gold nail polish on the right thumb is visible, and the tip of that thumb is cut off. The bulk of the fur is visible hanging down on the right side.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8282-shot1_1/img25.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8282-shot1_1/img30.jpg",
+        "caption": "The gray object is not touching any of the text on the bottom.  The woman's left hand is behind the first two words of text. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8560-shot1_3/img256.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8560-shot1_3/img268.jpg",
+        "caption": "The car front and back cannot be seen.  The front wheel has two orange spots and the back wheel has one.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8560-shot1_3/img265.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8560-shot1_3/img252.jpg",
+        "caption": "You can just barely see the front corner of the white van that was next to the black car. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videowedding_de8dLXvgV-I-shot6_0/img69.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videowedding_de8dLXvgV-I-shot6_0/img53.jpg",
+        "caption": "The woman has just emerged from her face being blocked by a camera stand in teh background as she is escorted by a man with an umbrella",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videowedding_de8dLXvgV-I-shot6_0/img81.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videowedding_de8dLXvgV-I-shot6_0/img69.jpg",
+        "caption": "The flowers the woman in the teal strapless dress is carrying are completely obscured by the man in the black shirt\u2019s head. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7603-shot1_1/img133.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7603-shot1_1/img184.jpg",
+        "caption": "The picture is well lit and bright.  Only one fingernail on a finger can be seen in the upper right corner.  The image is not blurry. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2401_08fcffc191732f13/img9.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2401_08fcffc191732f13/img7.jpg",
+        "caption": "A woman with a white background smiles at the camera. Most of her body is visible. She is wearing a black outfit.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2401_08fcffc191732f13/img4.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2401_08fcffc191732f13/img2.jpg",
+        "caption": "The woman is laying on her stomach on a stone fence in front of a tree branch.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2401_08fcffc191732f13/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2401_08fcffc191732f13/img2.jpg",
+        "caption": "A woman is seen with her right hand on her left shoulder.  The right hand is holding a pen.  There is half a man's face on the far right side of the image.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2823_14fbd53b9a334bb9/img3.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2823_14fbd53b9a334bb9/img5.jpg",
+        "caption": "a ladybug perches at the top of a thin plant with leaves at the top",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2823_14fbd53b9a334bb9/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2823_14fbd53b9a334bb9/img2.jpg",
+        "caption": "A ladybug on the rightmost branch.  The branches make an X above the ladybug. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2823_14fbd53b9a334bb9/img9.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2823_14fbd53b9a334bb9/img7.jpg",
+        "caption": "The ladybug is climbing up the side of a vertical green stalk.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7146-shot0_0/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7146-shot0_0/img18.jpg",
+        "caption": "The woman is close to the dog.  The dog is facing down the stairs with its tail up high and pointed to the top left.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7146-shot0_0/img15.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7146-shot0_0/img0.jpg",
+        "caption": "You can no longer see the person's head with the blue shirt on at the bottom of the stairs.  The dog has two legs on a back stair and the rest of the dog's body is angled strangely to the right.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7041-shot1_1/img97.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7041-shot1_1/img108.jpg",
+        "caption": "A boy is walking into a room full of people.  On the far left is a girl in the foreground wearing a red scrunchie that you can just barely see on the far left side of the image. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7041-shot1_1/img99.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7041-shot1_1/img92.jpg",
+        "caption": "A group of dancers on the dance floor.  The girl in the autumn dress is facing the blonde boy in blue.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1119_530105735b147938/img2.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1119_530105735b147938/img0.jpg",
+        "caption": "A child's hand is holding a large frog that's mostly green on top with a white and brownish speckled belly. It looks like a swimming pool in the background.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0034-shot14_4/img355.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0034-shot14_4/img368.jpg",
+        "caption": "Two images are blended, with the dominant image being a hand slicing something with a vegetable slicer. The slicer on the table is very faded.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0034-shot14_4/img361.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0034-shot14_4/img399.jpg",
+        "caption": "The cucumber is just to be cut into, you can see a transparent image covering the image ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0034-shot14_4/img368.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0034-shot14_4/img403.jpg",
+        "caption": "A man is cutting the cucumber closest to his pointer finger and you cannot see his nails.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2169_01d237e5eef4a56f/img5.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2169_01d237e5eef4a56f/img3.jpg",
+        "caption": "There's a row of little goats poking their heads out of a wire fence. Someone on the left is feeding them out of a plastic cup.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2169_01d237e5eef4a56f/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2169_01d237e5eef4a56f/img8.jpg",
+        "caption": "An extreme closeup of a brown goat looking to the right. The goat has a black stripe going down it's face.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2169_01d237e5eef4a56f/img2.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2169_01d237e5eef4a56f/img0.jpg",
+        "caption": "Several goats looking through a wooden fence.  There is some yellow in the top left side of the image. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1888_1db7ae32bc637a07/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1888_1db7ae32bc637a07/img5.jpg",
+        "caption": "A woman with black hair is about to hit a tennis ball with her black red and yellow racket.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1888_1db7ae32bc637a07/img5.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1888_1db7ae32bc637a07/img7.jpg",
+        "caption": "A woman in a black outsfit with writing on it is jumping up and hitting a tennis ball with a racket in her left hand. There is a bush with no leaves on the left side of the image.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7816-shot0_0/img13.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7816-shot0_0/img0.jpg",
+        "caption": "Two people standing side by side fishing.  The man on the left has jerked his whole body around so that you can now see text on his shirt. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot74_0/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot74_0/img9.jpg",
+        "caption": "You can just start to see the teeth of the woman coming in from the right. You can only see one eye clearly. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot74_0/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot74_0/img6.jpg",
+        "caption": "You can now see the entire mouth and both eyes of the woman but her left eye is just cut off on the right side of the image. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot74_0/img9.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot74_0/img12.jpg",
+        "caption": "The girl's left eye and mouth is visible but half of her left cheek is cut off.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videowedding_Bp8t824h5NE-shot45_2/img465.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videowedding_Bp8t824h5NE-shot45_2/img515.jpg",
+        "caption": "no bridesmaid is visible at all.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videowedding_Bp8t824h5NE-shot45_2/img476.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videowedding_Bp8t824h5NE-shot45_2/img439.jpg",
+        "caption": "The woman on the far left is looking forward. The woman on the far right behind the man on the right is looking right. Most of the crowd look back at a woman in blue behind a pillar.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8679-shot1_10/img395.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8679-shot1_10/img401.jpg",
+        "caption": "The cloud on top left side of box only has half of it showing.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0008-shot10_3/img157.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0008-shot10_3/img154.jpg",
+        "caption": "The numbers at the end of the text are in an upside down U shape. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot8_1/img71.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot8_1/img75.jpg",
+        "caption": "Two street signs are slightly to the right of the center of the image.  You can see half of the bridge path.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot8_1/img73.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot8_1/img69.jpg",
+        "caption": "There is the slightest of openings to see the end of the bridge through the obstruction.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot34_4/img144.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot34_4/img146.jpg",
+        "caption": "The text at the top right and bottom right of the toy box is right at the edge.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9219-shot1_3/img302.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9219-shot1_3/img328.jpg",
+        "caption": "The man is facing left with both feet slightly back and no gap visible between the legs. The background is orange. The woman's face is pointed to the left.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9219-shot1_3/img328.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9219-shot1_3/img302.jpg",
+        "caption": "There is a man and woman dancing, with another couple off to the left. The man's back is facing the camera and there appears to be something white hanging from his back pocket.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8240-shot1_0/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8240-shot1_0/img3.jpg",
+        "caption": "There two sets of same images diagonally placed. The top left corner's person's lips and nose are visible as they lay there.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8240-shot1_0/img1.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8240-shot1_0/img4.jpg",
+        "caption": "The woman in the black shirt is seen twice.  Her mouth in the upper picture is cover by the text.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8240-shot1_0/img3.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8240-shot1_0/img6.jpg",
+        "caption": "The girl in black is in the middle top side of the picture. The lady lying down on the top right has her head right under the text. The head does not pass the boundary of this text box. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7170-shot3_0/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7170-shot3_0/img12.jpg",
+        "caption": "Her right arm is pulled back in a fist past her hair.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7170-shot3_0/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7170-shot3_0/img15.jpg",
+        "caption": "The girl's left arm is extended somewhat and the bow is outstretched as well.  Her right hand is starting to block some of her body. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7170-shot3_0/img12.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7170-shot3_0/img0.jpg",
+        "caption": "The girl is looking very sad at the bow. The bow is pointed to the left and almost towards the camera.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9560-shot1_0/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9560-shot1_0/img11.jpg",
+        "caption": "There is a woman on the very right side of the door. Her face is fully in view.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9560-shot1_0/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9560-shot1_0/img16.jpg",
+        "caption": "the lady on the right can be seen but her face is not visible but you can see her neck",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7555-shot1_0/img19.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7555-shot1_0/img7.jpg",
+        "caption": "A splayed left hand firmly touches the white back of the horse.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9375-shot1_4/img522.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9375-shot1_4/img489.jpg",
+        "caption": "The losing wrestler is directly in front of the referee and has his right hand outstretched toward the referee.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9375-shot1_4/img555.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9375-shot1_4/img620.jpg",
+        "caption": "The two wrestlers are shaking hands. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0017-shot2_1/img98.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0017-shot2_1/img101.jpg",
+        "caption": "The image is blurred and it looks like two piles of ribs are being set on a plate.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9489-shot2_1/img59.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9489-shot2_1/img54.jpg",
+        "caption": "the picture is in focus and his arms are behind his back",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7925-shot1_2/img276.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7925-shot1_2/img273.jpg",
+        "caption": "The tray that the bowl is going to be put in can just barely be noticed in the background.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7925-shot1_2/img278.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7925-shot1_2/img276.jpg",
+        "caption": "There is a large pan that fills up the photo. A piece of aluminum foil is visible at the top right. You can just barely see the image of a hand at the bottom right.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8183-shot0_0/img18.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8183-shot0_0/img0.jpg",
+        "caption": "None of the duck's hat is visible and the two characters are walking down stairs.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8183-shot0_0/img52.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8183-shot0_0/img8.jpg",
+        "caption": "Goofy's hand is straight up in the air and he's making a fist while riding a smiling horrse.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8183-shot0_0/img53.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8183-shot0_0/img18.jpg",
+        "caption": "The object he's trying to catch is at the top of the frame",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8672-shot1_1/img47.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8672-shot1_1/img50.jpg",
+        "caption": "The hamster right leg is the touching the finger holding it down.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9799-shot1_0/img38.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9799-shot1_0/img36.jpg",
+        "caption": "The phone is almost turned flat but you can just barely see red and green colors still on the front screen.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9799-shot1_0/img39.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9799-shot1_0/img46.jpg",
+        "caption": "The thumbs appear to be touching on the two hands. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9799-shot1_0/img43.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9799-shot1_0/img49.jpg",
+        "caption": "The phone is mostly the side view, and the camera is barely visible. No screen is visible.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1738_3522e4734ff9b327/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1738_3522e4734ff9b327/img9.jpg",
+        "caption": "A duck swimming to the right side of the image.  It has a blue head and you can see one of its orange legs above the water. There is a reflection of something in the water in the upper left corner of the image. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1738_3522e4734ff9b327/img2.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1738_3522e4734ff9b327/img4.jpg",
+        "caption": "A duck with its bill pointed to the lower left corner of the image. Its mouth is closed.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1738_3522e4734ff9b327/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1738_3522e4734ff9b327/img2.jpg",
+        "caption": "A duck floating on a black oil like water.  There is no rays of sunlight.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9379-shot1_1/img95.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9379-shot1_1/img103.jpg",
+        "caption": "The man's hands are fully visible but blurry",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9379-shot1_1/img98.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9379-shot1_1/img116.jpg",
+        "caption": "The man is holding both hands up in front of him and the right one nearly touches his chin.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-841_0d6798aec0087d40/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-841_0d6798aec0087d40/img6.jpg",
+        "caption": "Two people sleeping. One on the couch, and a child face down wearing sparkly red shorts.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-841_0d6798aec0087d40/img1.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-841_0d6798aec0087d40/img3.jpg",
+        "caption": "A girl with pink pants and a white shirt sitting on a large dark green chair. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-841_0d6798aec0087d40/img4.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-841_0d6798aec0087d40/img6.jpg",
+        "caption": "A small child laying down under a white and red comforter.  The red are flowers. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_EytINruY3-U-shot37_1/img333.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_EytINruY3-U-shot37_1/img364.jpg",
+        "caption": "The finger of the hand are close together and above a piles of leaves. The thumb is close to the index finger.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0008-shot7_0/img99.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0008-shot7_0/img144.jpg",
+        "caption": "This is a side shot of the cake with only the top right corner not cake.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2331_7fc026c02723e9ec/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2331_7fc026c02723e9ec/img6.jpg",
+        "caption": "a player in black with orange cleats is on the right.  the ball is in the air nearly halfway across the image.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2331_7fc026c02723e9ec/img3.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2331_7fc026c02723e9ec/img5.jpg",
+        "caption": "The team in blue and gold and the team in maroon and white are lined up facing each other. They are moving towards each other but only the middle player on each team has made contact. No other players are touching players from the other team.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8325-shot3_0/img3.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8325-shot3_0/img13.jpg",
+        "caption": "A man is looking out of a window.  You can see a hand appear on the far left of the screen next to a red object that is hanging. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8325-shot3_0/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8325-shot3_0/img25.jpg",
+        "caption": "You can first see a second man's face on the left side of the screen next to a red hanging object. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8325-shot3_0/img13.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8325-shot3_0/img3.jpg",
+        "caption": "The man is looking forward but hunching his shoulders. The white frame cuts off most of his right eye.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videowedding_46xhFCXBMJs-shot2_0/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videowedding_46xhFCXBMJs-shot2_0/img0.jpg",
+        "caption": "The small girl in front is looking directly to the right with her right hand on the side of her face. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9830-shot1_0/img30.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9830-shot1_0/img40.jpg",
+        "caption": "Swimmer is completely vertical. Horizontal swimmer is barely visible.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9830-shot1_0/img35.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9830-shot1_0/img43.jpg",
+        "caption": "The water the person is in is quite dark. There is an image of them swimming horizontally layered on them but is not as in focus as them standing vertically. Their legs, not covered by the swimsuit, is almost covered from view.. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2906_34e6a09d19579626/img2.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2906_34e6a09d19579626/img4.jpg",
+        "caption": "The speaker is holding the microphone to his mouth with his left hand and his right hand is extended to the left.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2906_34e6a09d19579626/img9.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2906_34e6a09d19579626/img7.jpg",
+        "caption": "A man with glasses looks to the left. He has a hand cupped around his chest area. His legs are not really visible and mouth looks a little pouty. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2906_34e6a09d19579626/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2906_34e6a09d19579626/img4.jpg",
+        "caption": "It is a man in a sport jacket with no tie looking to the left with a gray laptop also to the left.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7795-shot1_2/img306.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7795-shot1_2/img327.jpg",
+        "caption": "The top of the red object is right at the top of the picture.  Half of the 2nd letter on the right is seen while the other part is submerged. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8760-shot0_1/img55.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8760-shot0_1/img62.jpg",
+        "caption": "The dog's tail is straight out and just coming off the top edge of the picture.  Only one finger of the man is seen. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0017-shot2_0/img79.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0017-shot2_0/img55.jpg",
+        "caption": "both hands seems straight on the meat, while the right hand is looking more flat placed on top of the meat and clearly visible",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2235_02cca0b5f4ea859b/img2.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2235_02cca0b5f4ea859b/img0.jpg",
+        "caption": "A yellow 3 way traffic light with a green arrow on the side facing closest to the camera",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2235_02cca0b5f4ea859b/img1.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2235_02cca0b5f4ea859b/img3.jpg",
+        "caption": "A stoplight that is green that is on a green pole. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2235_02cca0b5f4ea859b/img5.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2235_02cca0b5f4ea859b/img3.jpg",
+        "caption": "A stoplight that is very faintly green.  There are some very wispy clouds behind it with the biggest one above and to the right of the stoplight. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8013-shot1_0/img20.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8013-shot1_0/img25.jpg",
+        "caption": "The ball has just left the hands of the person with the red jersey.  ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8013-shot1_0/img24.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8013-shot1_0/img30.jpg",
+        "caption": "The ball is in the air and is above and to the left of the clock on top of the backboard.  There is no blur in the ball",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8013-shot1_0/img25.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8013-shot1_0/img31.jpg",
+        "caption": "The ball is high in the air with only black behind it. The number on the red jersey is not legible at all.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8037-shot1_0/img13.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8037-shot1_0/img27.jpg",
+        "caption": "The woman has mostly straightened posture as she faces the boy in blue with her mouth open",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8037-shot1_0/img22.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8037-shot1_0/img10.jpg",
+        "caption": "Bright shot of a girl and boy standing up straight. Her eyes are closed.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8037-shot1_0/img27.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8037-shot1_0/img13.jpg",
+        "caption": "The shot of a woman talking to a man in a blue shirt is starting to get really dark but you can clearly see them. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7174-shot1_1/img128.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7174-shot1_1/img107.jpg",
+        "caption": "The ski lift going in the opposite direction as the man has just completely disappeared from view. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7174-shot1_1/img135.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7174-shot1_1/img158.jpg",
+        "caption": "There is a red object in the lower right corner of the image.  It is the largest piece of red you can see. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7174-shot1_1/img149.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7174-shot1_1/img128.jpg",
+        "caption": "There is a bright light on the man's face and clothes. The hand rail is still visible.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9235-shot2_0/img45.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9235-shot2_0/img33.jpg",
+        "caption": "There are two men with beanies on the right of the image, one is wearing glasses with his nose not visible and the other is looking down with white text on his face.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9235-shot2_0/img52.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9235-shot2_0/img39.jpg",
+        "caption": "3 men surround a table with weaponry on it",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0035-shot4_0/img105.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0035-shot4_0/img130.jpg",
+        "caption": "Olive oil bottle is seen but no label is clearly visible.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7523-shot2_0/img25.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7523-shot2_0/img6.jpg",
+        "caption": "The tip of the right shoe is fully visible with a small bit of space between the tip and the top of the picture. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7523-shot2_0/img38.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7523-shot2_0/img64.jpg",
+        "caption": "Only three small black marks of the logo can be seen on the player's left sock. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7412-shot1_0/img16.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7412-shot1_0/img20.jpg",
+        "caption": "There is some overlay with a man in the center left of the shot.  You can still barely read the letters below and to the left of him. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-89_00b3eae03121641b/img5.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-89_00b3eae03121641b/img7.jpg",
+        "caption": "A drummer with sunglasses on.  Both drumsticks are up and off of the drums. He is not wearing a hat. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-89_00b3eae03121641b/img4.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-89_00b3eae03121641b/img2.jpg",
+        "caption": "A drummer with his eyes closed and mouth open.  His drums are blue. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-89_00b3eae03121641b/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-89_00b3eae03121641b/img6.jpg",
+        "caption": "There is a drummer bathed in red light.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0082-shot1_0/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0082-shot1_0/img92.jpg",
+        "caption": "The cheese covered tomato sits below the person's 3 fingers which appear to grasp the lettuce behind it.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0082-shot1_0/img18.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0082-shot1_0/img0.jpg",
+        "caption": "One leaf behind the cheese with the hand obscuring almost all of it. Can see a little of the cheese between his index and middle finger",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7692-shot2_3/img507.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7692-shot2_3/img515.jpg",
+        "caption": "The headlight on the blue car to the left is not yet visible. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7692-shot2_3/img508.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7692-shot2_3/img522.jpg",
+        "caption": "If it wasn't a bit blurry you would be able to first read the middle car's license plate for the first time. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7692-shot2_3/img515.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7692-shot2_3/img527.jpg",
+        "caption": "You can fully see the left front headlight of the car on the left and just start to see the right front headlight of the car on the right. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot75_2/img380.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot75_2/img404.jpg",
+        "caption": "The woman's head rests on her hand and her eyes are mid-blink, almost entirely closed",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot75_2/img388.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot75_2/img352.jpg",
+        "caption": "Her right thumb appears to pull at some lower strands of hair, pulling very slightly outward.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot75_2/img404.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot75_2/img380.jpg",
+        "caption": "Girl has her mouth open but no teeth showing and index finger up and thumb",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9003-shot1_8/img193.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9003-shot1_8/img198.jpg",
+        "caption": "The ball is in front of the net in the center. The yellow players left hand is below the table.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9003-shot1_8/img196.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9003-shot1_8/img200.jpg",
+        "caption": "The ping pong ball is on the near side of the table in front of the net.  The ball is blurry from the movement.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9003-shot1_8/img198.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9003-shot1_8/img193.jpg",
+        "caption": "The person in yellow has his left arm and paddle way up high over his head and to the left of his body. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9858-shot1_1/img341.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9858-shot1_1/img267.jpg",
+        "caption": "Horse is on left side facing the right and looking straight ahead. Can only see the man's legs behind the horse while upper body is obstructed",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9858-shot1_1/img348.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9858-shot1_1/img313.jpg",
+        "caption": "a horse stretches his head upwards so that his head is parallel to the wood behind him ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7043-shot0_0/img729.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7043-shot0_0/img691.jpg",
+        "caption": "only the front half of the car is clearly visible",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7480-shot1_2/img162.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7480-shot1_2/img149.jpg",
+        "caption": "A parrot is curled up tigthly around a pen, with its head covering the middle portion of the pen",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7480-shot1_2/img189.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7480-shot1_2/img198.jpg",
+        "caption": "There is a bird laying flat on his back with a pen in his beak",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8971-shot0_0/img33.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8971-shot0_0/img43.jpg",
+        "caption": "Can see both people's legs. Girl with mouth open looking in direction of dashbaord",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8971-shot0_0/img37.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8971-shot0_0/img52.jpg",
+        "caption": "the lady can be seen holding her hands, with her head looking straight and her mouth wide open while part of her hair is covering her left face.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8689-shot1_2/img547.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8689-shot1_2/img483.jpg",
+        "caption": "You can see a golden object at the very top center of the picture.  You can't see the entire golden object. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7522-shot8_0/img3.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7522-shot8_0/img5.jpg",
+        "caption": "There is a long pink runway going down and to the right. No one is visible in front of it. There are two groups of people visible to the right of it.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7522-shot8_0/img4.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7522-shot8_0/img2.jpg",
+        "caption": "A bald man's head covers a  lot of the crowd and signs in the background.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7522-shot8_0/img5.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7522-shot8_0/img3.jpg",
+        "caption": "the man in yellow shirt can be seen to the right edge of the image",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0035-shot9_2/img308.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0035-shot9_2/img270.jpg",
+        "caption": "The croutons are in the tongs directly above the center of the salad about to be put into it",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0035-shot9_2/img318.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0035-shot9_2/img334.jpg",
+        "caption": "the picker is in the middle, away from the plate slightly but its not carrying nothing , fings not visible but skin can be seen far left bottom",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-471_1121e9f97c200ac0/img9.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-471_1121e9f97c200ac0/img7.jpg",
+        "caption": "Only the middle 2 of the four breadsticks are visible fully, and they are angled down and to the left on a metal rack",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-471_1121e9f97c200ac0/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-471_1121e9f97c200ac0/img9.jpg",
+        "caption": "two bread loafs and right one has a slice.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-471_1121e9f97c200ac0/img5.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-471_1121e9f97c200ac0/img3.jpg",
+        "caption": "Loaves of long rustic bread piled onto a shallow stoneware or ceramic circular dish. The dish is on a wood surface. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0036-shot0_0/img21.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0036-shot0_0/img111.jpg",
+        "caption": "The white substance has not been poured yet and the index finger is prominent.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0036-shot0_0/img49.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0036-shot0_0/img116.jpg",
+        "caption": "The white sauce is being poured from the small white bowl",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0036-shot0_0/img111.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0036-shot0_0/img220.jpg",
+        "caption": "The person's hand is holding a white container almost directly above the white sauce in the middle. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2612_7f80d3f52da645e9/img2.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2612_7f80d3f52da645e9/img4.jpg",
+        "caption": "A sandwich on a white paper plate.  There is a full bowl of chili behind and to the left of the sandwich. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2612_7f80d3f52da645e9/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2612_7f80d3f52da645e9/img9.jpg",
+        "caption": "A single uncut long sandwich sub on a plate with white coleslaw. On the left is a wooden cutting board.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot61_4/img142.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot61_4/img145.jpg",
+        "caption": "The red dog's head is just starting to get cut off on the far right  of the image. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot29_0/img111.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot29_0/img93.jpg",
+        "caption": "A smiling boy just begins to look towards the dog",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot29_0/img119.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot29_0/img105.jpg",
+        "caption": "the costum guy has his face mostly up and forward and you can see a characters eye on the hanging item behidn the kid",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot29_0/img130.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot29_0/img111.jpg",
+        "caption": "The mouse is looking in the camera.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot73_6/img252.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot73_6/img247.jpg",
+        "caption": "You can just barely see the yellow exclamation point on the poster on the wall and no other yellow text. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot73_6/img266.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot73_6/img249.jpg",
+        "caption": "The girl has her right hand up in her hair and her other hand is pointed towards the poster on the wall slightly above waist level. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9529-shot1_2/img108.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9529-shot1_2/img104.jpg",
+        "caption": "The men in the background are shown from the waist down. The bottom left corner is a larger black shape.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7041-shot0_5/img110.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7041-shot0_5/img108.jpg",
+        "caption": "There neck of the girl in orange is right against the right side, there is no space between her neck and the edge.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8070-shot1_11/img542.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8070-shot1_11/img547.jpg",
+        "caption": "There is a lot of sunlight shining on the far back of the truck but not on the front. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8070-shot1_11/img545.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8070-shot1_11/img538.jpg",
+        "caption": "The entire vehicle is in shadows. The light is just behind the vehicle, so it just got into the shadows.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8454-shot1_1/img147.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8454-shot1_1/img88.jpg",
+        "caption": "The woman on the white sign to the left has everything from her forehead up off frame",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8454-shot1_1/img148.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8454-shot1_1/img89.jpg",
+        "caption": "There is blurry text at the very bottom of the screen. Only one human head is visible, the heads in the photos in the upper corners are cut off by the upper edge .",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8454-shot1_1/img152.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8454-shot1_1/img159.jpg",
+        "caption": "Woman holds her hands out, making her forearms almost parallel to floor.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9243-shot1_1/img90.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9243-shot1_1/img129.jpg",
+        "caption": "The man is standing straight forwards and his hand is on the left of his chest. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9082-shot1_1/img47.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9082-shot1_1/img42.jpg",
+        "caption": "The woman's head in green on the right can't be seen.  Her arm is seen at a 90 degree angle but no fingers are seen. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9082-shot1_1/img54.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9082-shot1_1/img61.jpg",
+        "caption": "Arm at right is tightly bent at the elbow, and none of this person's body is visible.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8408-shot1_0/img17.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8408-shot1_0/img0.jpg",
+        "caption": "Close up of a tray with different colors. There is a hand to the right side, the thumb is at the bottom of the screen and the pointer finger is at the top.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8408-shot1_0/img55.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8408-shot1_0/img17.jpg",
+        "caption": "You can see most of the circles of paint very clearly but the ones at the bottom are cut off. There are no fingers or legs seen. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8837-shot3_1/img103.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8837-shot3_1/img92.jpg",
+        "caption": "The tip of the person's ring finger who the dog is biting is just off the bottom edge of the image. The middle finger is still entirely seen. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8837-shot3_1/img110.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8837-shot3_1/img103.jpg",
+        "caption": "The puppy's paw is on the hand and is chewing on the index finger. The pup is directly facing the camera and a tiny bit of his right eye is obscured by his paw. You can still see the shine mark in that eye.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8088-shot3_0/img10.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8088-shot3_0/img16.jpg",
+        "caption": "Three of the larger balls are touching each other but are all still on the ground. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9823-shot3_1/img21.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9823-shot3_1/img27.jpg",
+        "caption": "The player in green has his left arm in the air as he is falling",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9823-shot3_1/img24.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9823-shot3_1/img28.jpg",
+        "caption": "The two players at left have their butts very close together but not touching or overlapping..",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9823-shot3_1/img27.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9823-shot3_1/img30.jpg",
+        "caption": "The man in green has his knees on the ground and is leaning back.  His left hand has just touched the ground. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0050-shot1_0/img673.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0050-shot1_0/img605.jpg",
+        "caption": "Beef chunks are beginning to just overhang (One is) the white plate before being placed into the ban of grease.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0050-shot1_0/img1906.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0050-shot1_0/img673.jpg",
+        "caption": "Meat browning in the pan being stirred with a utensil",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7022-shot0_0/img15.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7022-shot0_0/img22.jpg",
+        "caption": "The women's right arm is bent at her side at a 90 degree angle. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7022-shot0_0/img18.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7022-shot0_0/img23.jpg",
+        "caption": "The woman's closer arm is straight down and the back arm is hidden behind her.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_7/img994.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_7/img1007.jpg",
+        "caption": "There is just a tiny gap between the back of the girl on the left and the edge of the frame.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7689-shot1_0/img5.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7689-shot1_0/img7.jpg",
+        "caption": "A person can be seen running to get into a red vehicle.  Four small yellow rectangular lights are seen on the top of the red truck. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7689-shot1_0/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7689-shot1_0/img0.jpg",
+        "caption": "A person is running to get into a red truck. The front part of its head is being blocked by some kind of dark pole between it and the camera.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7689-shot1_0/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7689-shot1_0/img11.jpg",
+        "caption": "The characters head is right beside the side mirror of the bus, there are not any plant leaves between the head and the mirror.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7485-shot2_1/img87.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7485-shot2_1/img96.jpg",
+        "caption": "The young girl is at the right edge of the picture, facing right, with arms slightly extended and cut off just below the elbow. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7485-shot2_1/img92.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7485-shot2_1/img84.jpg",
+        "caption": "There are two green blurs and one purple blur that is almost cut off on the right side.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-842_04f66142f7455c1f/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-842_04f66142f7455c1f/img2.jpg",
+        "caption": "A top view of a purple plant with three green leaves in the upper left corner of a flower pot with rocks.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-842_04f66142f7455c1f/img5.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-842_04f66142f7455c1f/img7.jpg",
+        "caption": "Purple succulent in orange pot with two other green succulents seen in same pot",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-842_04f66142f7455c1f/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-842_04f66142f7455c1f/img6.jpg",
+        "caption": "lone plant in a rock pot, mostly purple, top of the plant facing straight at the camera",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7996-shot2_0/img56.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7996-shot2_0/img22.jpg",
+        "caption": "The pencil is pointed at the girl's eye",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7996-shot2_0/img89.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7996-shot2_0/img49.jpg",
+        "caption": "Picture where girl is touching her eye with her middle and ring fingers",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0035-shot6_0/img215.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0035-shot6_0/img272.jpg",
+        "caption": "The person is holding the meat mostly flat, but with a bit of a fold between the hands. Only two fingers of the right hand are visible.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0035-shot6_0/img238.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0035-shot6_0/img282.jpg",
+        "caption": "The meat is right above the pan, the left thumb is holding the meaty part and the right thumb is holding the bottom fatty part",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9523-shot1_4/img276.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9523-shot1_4/img294.jpg",
+        "caption": "There's a white pole between the left most kid and the two to his right. There is no yellow pole visible. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9523-shot1_4/img285.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9523-shot1_4/img297.jpg",
+        "caption": "The blue youth player is on the right of the pole shadow on the ground, not touching the shadow.  The people on the bench at the top right are not visible.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9523-shot1_4/img294.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9523-shot1_4/img276.jpg",
+        "caption": "There is a black fence that is seen in the upper right corner of the image.  Only one person can be seen behind that fence. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7780-shot3_5/img100.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7780-shot3_5/img94.jpg",
+        "caption": "On the top left side there is a game map. It is half over a brown area on the white wall.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7542-shot9_0/img48.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7542-shot9_0/img32.jpg",
+        "caption": "The tip of his nose is overlapping the toy and his mouth is open.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7542-shot9_0/img52.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7542-shot9_0/img45.jpg",
+        "caption": "The boy's head is tipped so that you can barely see his right eye.  His mouth is closed.   The green object is touching his nose. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7542-shot9_0/img65.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7542-shot9_0/img48.jpg",
+        "caption": "The little boy has brought the green object away from his mouth and part of it is off the bottom part of the image. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2220_21c428b9550131d7/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2220_21c428b9550131d7/img9.jpg",
+        "caption": "One brown shoe with white sole. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2220_21c428b9550131d7/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2220_21c428b9550131d7/img4.jpg",
+        "caption": "You can see the bottom of the shoe with a lace wrapped around it.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2220_21c428b9550131d7/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2220_21c428b9550131d7/img6.jpg",
+        "caption": "A two shades of brown woven sandle with a black base",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot61_16/img362.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot61_16/img357.jpg",
+        "caption": "Both of the eyes of the dog in the pool are not seen. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9455-shot1_4/img136.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9455-shot1_4/img139.jpg",
+        "caption": "A dog lies on the floor with the tips of his back legs off frame and his nose showing",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9455-shot1_4/img139.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9455-shot1_4/img136.jpg",
+        "caption": "The top part of the tail is cut of at the top of the picture but you can still see the bottom half of the tail. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot43_13/img700.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot43_13/img705.jpg",
+        "caption": "The woman on the right is standing pretty straight up and her left arm is bent at a 90 degree angle. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot43_13/img702.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot43_13/img710.jpg",
+        "caption": "Girl with blue hat has left fist just above hat, not overlapping, right fist can be seen as well",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9654-shot1_0/img13.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9654-shot1_0/img2.jpg",
+        "caption": "The right hand is covering up the bottom part of the cartoon character's nose. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9654-shot1_0/img14.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9654-shot1_0/img6.jpg",
+        "caption": "A blurry hand working on the top right of the picture.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9654-shot1_0/img16.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9654-shot1_0/img13.jpg",
+        "caption": "The knuckles of the right hand of the person are covering up most of the eyes of the cartoon character. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0063-shot17_1/img125.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0063-shot17_1/img112.jpg",
+        "caption": "A blurred hand is positioned about a little less than halfway in front of a metal tool above a bowl.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0063-shot17_1/img126.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0063-shot17_1/img117.jpg",
+        "caption": "A right forearm holding a food item, over a bowl on a grater",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0063-shot17_1/img132.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0063-shot17_1/img146.jpg",
+        "caption": "The person holds the lemon over the grater. The grater's little pieces are reflecting the light and has a visible light coming off of each one. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9975-shot1_0/img80.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9975-shot1_0/img89.jpg",
+        "caption": "The right exhaust can't be seen for the first time in the image.  You can start to see a brick object on the upper left corner of the image. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8062-shot1_2/img473.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8062-shot1_2/img455.jpg",
+        "caption": "Only the top third of the bottom white bowl can be seen",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8062-shot1_2/img476.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8062-shot1_2/img471.jpg",
+        "caption": "The empty silver bowl is centered, and just a tiny edge of the bowl below it can be seen.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8062-shot1_2/img492.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8062-shot1_2/img473.jpg",
+        "caption": "There is a hand directly over a silver bowl. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0097-shot9_0/img11.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0097-shot9_0/img51.jpg",
+        "caption": "A spoon is mixing in a bowl. You can see a woman's pointer finger and thumb.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0097-shot9_0/img48.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0097-shot9_0/img54.jpg",
+        "caption": "A glass measuring cup is being lifted towards a mixing bowel. The words on the side of the measuring cup are facing away and can only be read backwards",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7254-shot1_6/img193.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7254-shot1_6/img189.jpg",
+        "caption": "There is a white bowl of soup and greens with a hand barely visible in the right corner.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7254-shot1_6/img196.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7254-shot1_6/img191.jpg",
+        "caption": "Spoon is being inserted into a small bowl.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8954-shot1_0/img20.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8954-shot1_0/img8.jpg",
+        "caption": "The image is slightly double-exposed, so the central woman appears to have a big pale nose.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8509-shot1_1/img77.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8509-shot1_1/img102.jpg",
+        "caption": "The men stand facing close to each other, at the most equal and similar heights.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8715-shot0_0/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8715-shot0_0/img19.jpg",
+        "caption": "The man inside the gym has dunked with his legs straight and the eagle behind him is visible.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8715-shot0_0/img15.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8715-shot0_0/img28.jpg",
+        "caption": "A person completely a slam dunk in a gym and ball is headed back to the ground. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8715-shot0_0/img19.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8715-shot0_0/img33.jpg",
+        "caption": "The man is shooting a three pointer and his feet are still on the ground. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1272_0fca544c6022ab25/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1272_0fca544c6022ab25/img8.jpg",
+        "caption": "Two old-time comic strips, one on top of the other. The comics are black and white paper has a brown tint.The top comic has a body builder.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1272_0fca544c6022ab25/img4.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1272_0fca544c6022ab25/img2.jpg",
+        "caption": "A cartoon of a boy in blue in front of a white building. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1272_0fca544c6022ab25/img1.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1272_0fca544c6022ab25/img3.jpg",
+        "caption": "A comic with three panels.  The top panel is taking up the upper 2/3 of the page. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-491_0ef70a5782d0a08b/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-491_0ef70a5782d0a08b/img2.jpg",
+        "caption": "On the top left there is shrimp and salmon while on the right there is tuna and in the front is sushi with a rice exterior.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-491_0ef70a5782d0a08b/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-491_0ef70a5782d0a08b/img4.jpg",
+        "caption": "6 smaller pieces of rice wrapped in vegetables are in the bottom left corner of a dish with meat on it",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-491_0ef70a5782d0a08b/img9.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-491_0ef70a5782d0a08b/img7.jpg",
+        "caption": "A roll is cut into six pieces on the left of the plate, and six pieces of sushi are next to it.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9608-shot8_0/img39.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9608-shot8_0/img28.jpg",
+        "caption": "The man is pretty much centered in the picture, there is white writing at the bottom right. His head is covering most of the silver pole behind him but it's still visible to the left of his cheek.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9608-shot8_0/img46.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9608-shot8_0/img74.jpg",
+        "caption": "There is text at the bottom of the screen.  The man looking off to the left and the first 6 letters of the second word of text are over top of the man's neck. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9608-shot8_0/img51.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9608-shot8_0/img83.jpg",
+        "caption": "The man is looking to the left, his head is covering the entire vertical metal bar behind him.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videochristmas_5RR_sRzKODA-shot20_15/img746.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videochristmas_5RR_sRzKODA-shot20_15/img752.jpg",
+        "caption": "There is only one row of green writing visible on the box above the box the boy is holding. The two boxes are perfectly lined up.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9703-shot1_0/img45.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9703-shot1_0/img9.jpg",
+        "caption": "Three people are seen in the image.  There is a third person who has appeared in the upper left corner of the image. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot37_0/img34.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot37_0/img31.jpg",
+        "caption": "Only the front part of the rim of the cap worn by the child on the left is visible",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot37_0/img36.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot37_0/img43.jpg",
+        "caption": "A boy is holding onto a toy and looking at it. Another boy is also looking at it and only the rim of his hat is visible.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-249_8c8e09c3af872319/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-249_8c8e09c3af872319/img9.jpg",
+        "caption": "a blueish grey outstretched hand",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-249_8c8e09c3af872319/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-249_8c8e09c3af872319/img6.jpg",
+        "caption": "A face with the eye on the right side (which is the face's left eye) is much higher than the other.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7063-shot4_0/img46.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7063-shot4_0/img39.jpg",
+        "caption": "The boy with the striped shirt is sort of facing the camera.  You can see the right side of his face and he is starting to rise up.  You can see the top 1/4 of the ball. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday_fwpYnUDbusw-shot9_1/img111.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday_fwpYnUDbusw-shot9_1/img99.jpg",
+        "caption": "The woman's forehead and hair on the left is now cut off on the top of the image.  Her right eye is just still barely visible. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday_fwpYnUDbusw-shot9_1/img119.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday_fwpYnUDbusw-shot9_1/img106.jpg",
+        "caption": "The standing woman is cut off above the tip of her nose. You can see her mouth, but not her eyes.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot43_16/img802.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot43_16/img795.jpg",
+        "caption": "The girl closest to the camera, her face and right arm/hand are not visible at all. She is turned more toward the camera.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9432-shot1_0/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9432-shot1_0/img166.jpg",
+        "caption": "The big elephant is at left and the small one at right, each facing outward with trunk down and visible.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9432-shot1_0/img26.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9432-shot1_0/img268.jpg",
+        "caption": "A baby elephant is walking behind the adult elephant. The baby elephant is facing the back wall.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9432-shot1_0/img166.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9432-shot1_0/img305.jpg",
+        "caption": "one elephant facing left",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2355_57212a17b7e8cf52/img3.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2355_57212a17b7e8cf52/img1.jpg",
+        "caption": "This lime green creature has a long green, black, and white striped tail that is mostly visible and its body is slightly off-center and closer to the left side of the photo. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2355_57212a17b7e8cf52/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2355_57212a17b7e8cf52/img2.jpg",
+        "caption": "There is a moth on a gear wheel. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2355_57212a17b7e8cf52/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2355_57212a17b7e8cf52/img5.jpg",
+        "caption": "A lizard is looking to the bottom left. It is resting on a brown colored shoe.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9562-shot0_0/img15.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9562-shot0_0/img31.jpg",
+        "caption": "The car is about to round the corner.  On the left middle, a tiny white part of the white and red road marker is seen.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9044-shot1_0/img21.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9044-shot1_0/img11.jpg",
+        "caption": "The person in the center has their arms up over their head in a Y shape.  His mouth is wide open. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9044-shot1_0/img31.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9044-shot1_0/img54.jpg",
+        "caption": "The middle male dancer has his arms behind his back.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0024-shot5_0/img285.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0024-shot5_0/img187.jpg",
+        "caption": "both hands are on the edge of the plate but not quite touching the bread",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0024-shot5_0/img312.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0024-shot5_0/img276.jpg",
+        "caption": "Both hands are on the piece of bread closest to the person.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0024-shot5_0/img327.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0024-shot5_0/img285.jpg",
+        "caption": "The top bread is put onto the sandwich.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9166-shot0_0/img33.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9166-shot0_0/img25.jpg",
+        "caption": "Wrestler being tossed is directly in the middle of being thrown and you can see a yellow foot near the other wrestler's head",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8246-shot1_3/img87.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8246-shot1_3/img94.jpg",
+        "caption": "A hand has appeared at the bottom of the image. You can still see most of the pan with the yellow object in it. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8246-shot1_3/img94.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8246-shot1_3/img101.jpg",
+        "caption": "The hand is slightly bent to the right and it is not covering the oil pan at all.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-531_0dd4eb59d465a8be/img1.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-531_0dd4eb59d465a8be/img3.jpg",
+        "caption": "A black typewriter with 6 red buttons on it on a grey/white surface",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-531_0dd4eb59d465a8be/img9.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-531_0dd4eb59d465a8be/img7.jpg",
+        "caption": "Green type writer with a red tape. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-531_0dd4eb59d465a8be/img3.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-531_0dd4eb59d465a8be/img5.jpg",
+        "caption": "An old black typewriter with white keys and black lettering with a corkboard behind in brown",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0082-shot3_0/img115.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0082-shot3_0/img86.jpg",
+        "caption": "Only one arm and hand are visible, it's reaching all the way across the picture. The food on the plate is almost entirely visible, only the very top is covered by the arm.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8468-shot1_0/img67.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8468-shot1_0/img47.jpg",
+        "caption": "The back left wheel is on the double yellow line.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8468-shot1_0/img83.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8468-shot1_0/img63.jpg",
+        "caption": "front driver tire about to drive up on sidewak",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7051-shot3_0/img14.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7051-shot3_0/img23.jpg",
+        "caption": "Part of the right side (picture left side) of the woman's face is covered by the shoulder of the person in front of her.  Her teeth are bared and you can see both top and bottom teeth clearly. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7564-shot1_0/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7564-shot1_0/img15.jpg",
+        "caption": "8 people are visible on a snowy mountainside in a mostly clear photo",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7564-shot1_0/img10.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7564-shot1_0/img17.jpg",
+        "caption": "In total, eight dark figures are seen at lower right, but they are blurry.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0050-shot1_1/img2000.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0050-shot1_1/img1907.jpg",
+        "caption": "The spatula has been slid under about 10 pieces of meat which are clearly visible and non-blurry.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0050-shot1_1/img2206.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0050-shot1_1/img1940.jpg",
+        "caption": "The cooked meat is about to get scooped up. You can see a very small part of the white plate at the lower right corner. The meat is sectioned with 1 piece of meat right in the middle of the pan by itself. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9363-shot2_0/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9363-shot2_0/img3.jpg",
+        "caption": "You can just start to see the ankles of the red person that is standing to the right of the text on the green wall.  The image is extremely blurry. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9363-shot2_0/img9.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9363-shot2_0/img14.jpg",
+        "caption": "Only 75 percent of the text on the green wall is visible with a person in red to the right.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9363-shot2_0/img10.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9363-shot2_0/img15.jpg",
+        "caption": "Just a picture of a green background with black text on it and orange ground at the bottom of the picture. Nothing else is in the picture. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8309-shot1_0/img221.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8309-shot1_0/img259.jpg",
+        "caption": "You can see a guy in black in the foreground, but only his legs.  He is moving from the middle of the image to the left of the image.  His legs are spaced apart the most.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8309-shot1_0/img226.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8309-shot1_0/img206.jpg",
+        "caption": "There is a referee on the front left side of the picture. You can see the one hand and fingers and the inner palm of the hand. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8309-shot1_0/img259.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8309-shot1_0/img221.jpg",
+        "caption": "The referee that was walking right next to the camera has disappeared off the left side of the image.  The wrestler on top has his left hand on the ground and the arm is bent in nearly a 90 degree angle. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9672-shot1_1/img64.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9672-shot1_1/img69.jpg",
+        "caption": "The large cat is cut off under its eyes at the top edge and is blurry.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9672-shot1_1/img69.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9672-shot1_1/img81.jpg",
+        "caption": "The large cat's eyes are both in frame but closed.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9241-shot1_0/img14.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9241-shot1_0/img3.jpg",
+        "caption": "The man's head is moving upward slightly causing his image to be very blurry. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9241-shot1_0/img16.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9241-shot1_0/img27.jpg",
+        "caption": "The boy is centered with a blurry face. His mouth is slightly open and he looks happy. His eyes are slightly open and dark, not too blurred into the rest of his face.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8465-shot1_0/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8465-shot1_0/img0.jpg",
+        "caption": "You can see a line going down on the left side of the image, it is from the blue squares and it is very close to the left edge but not touching.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7265-shot1_2/img198.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7265-shot1_2/img209.jpg",
+        "caption": "The woman has turned to the right and you can see her nose and mouth but no eyes. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7265-shot1_2/img202.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7265-shot1_2/img192.jpg",
+        "caption": "The woman's lips are puckered and a strand of hair is coming out, positioned as though it's coming out of her mouth. Her eyes are visible and her left eye is just under the top of the photo edge.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7265-shot1_2/img209.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7265-shot1_2/img198.jpg",
+        "caption": "The lady is bent over to the right. her hair is at her side.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8335-shot1_0/img23.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8335-shot1_0/img43.jpg",
+        "caption": "You can just barely see a second waterfall on the far left side of the picture. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8335-shot1_0/img32.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8335-shot1_0/img51.jpg",
+        "caption": "You can see the two waterfalls pretty clearly but you can't see where the water that is falling from these waterfalls is hitting on the rocks below. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8922-shot0_0/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8922-shot0_0/img11.jpg",
+        "caption": "The scene is shadowy as the two men stand facing the camera.  The right man is facing somewhat to the left",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8922-shot0_0/img11.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8922-shot0_0/img28.jpg",
+        "caption": "the guy on left looking in the camera and the background is lit.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7428-shot2_1/img60.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7428-shot2_1/img66.jpg",
+        "caption": "Just the very edge of the inflated toy is shown.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7428-shot2_1/img65.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7428-shot2_1/img56.jpg",
+        "caption": "There are two balloons on a small table. The girl's bent left arm has a small gap in between the bend..",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7428-shot2_1/img66.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7428-shot2_1/img60.jpg",
+        "caption": "You can fully see the orange balloon on the table.  The girl's right foot is getting close to coming down to the ground. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9405-shot1_0/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9405-shot1_0/img10.jpg",
+        "caption": "The top half of a water bottle is seen between a man and a woman. A red item is slightly in view towards the bottom left. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8416-shot0_0/img3.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8416-shot0_0/img11.jpg",
+        "caption": "One man is visible and his fingers are directed at his own face.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8416-shot0_0/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8416-shot0_0/img14.jpg",
+        "caption": "The person in the front brings his right hand away from his body and has his mouth open. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9311-shot1_0/img65.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9311-shot1_0/img82.jpg",
+        "caption": "You can still barely see the white on the horse's front left leg.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9311-shot1_0/img75.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9311-shot1_0/img87.jpg",
+        "caption": "The horses far leg is entirely covered up by his front leg.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7429-shot0_0/img22.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7429-shot0_0/img2.jpg",
+        "caption": "Woman's left hand is not touching the object",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7429-shot0_0/img40.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7429-shot0_0/img51.jpg",
+        "caption": "Her mouth is partially blocked by her hand.  You can see part of her open mouth and can see her top teeth. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1983_01408ee50fc35bbb/img3.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1983_01408ee50fc35bbb/img5.jpg",
+        "caption": "Two empty chairs are in the image",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1983_01408ee50fc35bbb/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1983_01408ee50fc35bbb/img2.jpg",
+        "caption": "There is a black chair with white dots on its backrest with a metal handle on top of the backrest.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1983_01408ee50fc35bbb/img6.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1983_01408ee50fc35bbb/img4.jpg",
+        "caption": "A black chair with a solid back facing forward with black armrests. The background is a plain speckled gray. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8020-shot1_0/img61.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8020-shot1_0/img7.jpg",
+        "caption": "There is a small diamond shape in the center of a collage of pictures.  You can just see a man's neck and chin. No mouth or nose is seen. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8020-shot1_0/img62.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8020-shot1_0/img64.jpg",
+        "caption": "There is a diamond shape in the center.  You can see a man with a black shirt and you can see his mouth but neither of his eyes.  ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8020-shot1_0/img63.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8020-shot1_0/img61.jpg",
+        "caption": "The diamond shape is cutting off the top of the man's forehead and half of his right hand. Both eyes are visible.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot68_4/img113.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot68_4/img124.jpg",
+        "caption": "The girl's face from right above her mouth upwards is visible behind the balloons",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot68_4/img118.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot68_4/img131.jpg",
+        "caption": "The yellow toy car to the right is still in the frame. The pole above it is on the very edge of the frame and the top of the pole is going out at the corner of the frame.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot68_4/img124.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday__amwPjAcoC8-shot68_4/img113.jpg",
+        "caption": "The boy in orange is touching the balloon. The slide is visible behind him on the left side. His backpack is going out of the frame on the bottom.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7465-shot7_0/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7465-shot7_0/img2.jpg",
+        "caption": "A hand takes up the majority of the foreground of the picture",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7465-shot7_0/img1.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7465-shot7_0/img3.jpg",
+        "caption": "The person's hand on the right is covering up most of his face but you can still see a bit of his sunglasses. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7465-shot7_0/img2.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7465-shot7_0/img0.jpg",
+        "caption": "The person's hand on the right is covering up the lower left part of his face.  You can see his mouth is open and the hand is covering a bit of his mouth. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday_fwpYnUDbusw-shot63_5/img235.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday_fwpYnUDbusw-shot63_5/img205.jpg",
+        "caption": "You can just see a bit of the object the person is holding on the far left side of the image. You can't see any hands. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday_fwpYnUDbusw-shot63_5/img240.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videobirthday_fwpYnUDbusw-shot63_5/img233.jpg",
+        "caption": "A wrist and hand holding an object coming in from the left side of the image. You can't see much of their forearm at all. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videowedding_46xhFCXBMJs-shot34_2/img94.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videowedding_46xhFCXBMJs-shot34_2/img104.jpg",
+        "caption": "Only three women are visible, the fourth is completely hidden behind the man. The picture is mostly not blurry.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9623-shot1_1/img45.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9623-shot1_1/img138.jpg",
+        "caption": "A man holds phone up to his left side, giving best profile to us, most completely here.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9623-shot1_1/img120.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9623-shot1_1/img43.jpg",
+        "caption": "A man in suit and tie has left hand by face with eyes looking down",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7507-shot0_0/img13.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7507-shot0_0/img30.jpg",
+        "caption": "White plate is starting to come in from the left side of the image.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7507-shot0_0/img27.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7507-shot0_0/img0.jpg",
+        "caption": "The white plate is covering the left half of the pan on the stove.  The hand is not over the dish but is below and to the left of it. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7803-shot2_0/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7803-shot2_0/img7.jpg",
+        "caption": "a brighter shot of a city scape with no people present in the image",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7803-shot2_0/img3.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7803-shot2_0/img11.jpg",
+        "caption": "There are no people in the picture and it is pretty dark.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7803-shot2_0/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7803-shot2_0/img29.jpg",
+        "caption": "The woman's face is popping up, it's blurry and her mouth is not showing yet.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8290-shot1_0/img10.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8290-shot1_0/img6.jpg",
+        "caption": "The piece of paper in the person's hand is blocking all of the text of the blue object in the box.  You can still see the logo on the blue object. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8290-shot1_0/img11.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8290-shot1_0/img8.jpg",
+        "caption": "The piece of paper in the person's hand is blocking most of the text of the blue object in the box.  It is also blocking a good portion of the logo on the object as well. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9158-shot1_0/img40.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9158-shot1_0/img29.jpg",
+        "caption": "Only one brown spot is visible on the white animal, towards the very bottom of the image",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videochristmas_5RR_sRzKODA-shot30_0/img130.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videochristmas_5RR_sRzKODA-shot30_0/img64.jpg",
+        "caption": "There is a woman sitting on the couch behind the baby but you can only see her left leg and arm.  You can't see her face at all. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videochristmas_5RR_sRzKODA-shot30_0/img134.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videochristmas_5RR_sRzKODA-shot30_0/img137.jpg",
+        "caption": "The top of the baby's head is cut off at the top of the image but you can still see her eyes clearly. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videochristmas_5RR_sRzKODA-shot30_0/img135.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videochristmas_5RR_sRzKODA-shot30_0/img130.jpg",
+        "caption": "The baby's eyes are cut off by the top edge of the frame. You can see just a tiny bit of the bottom edges of the eyes.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9569-shot1_1/img124.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9569-shot1_1/img109.jpg",
+        "caption": "The man's right ear is barely visible on the left hand side of the image.  The woman has her mouth open and you can see her top teeth. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8403-shot1_1/img36.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8403-shot1_1/img44.jpg",
+        "caption": "The hands of the man in white are not visible.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8403-shot1_1/img44.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8403-shot1_1/img51.jpg",
+        "caption": "The man has both hands on the railing but have not yet grasp it. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0023-shot1_0/img18.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0023-shot1_0/img8.jpg",
+        "caption": "Double exposure showing hands cutting into one centered crab leg above three other legs spread out on a silver pan, with longer sliver slash at bottom",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0023-shot1_0/img24.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0023-shot1_0/img147.jpg",
+        "caption": "Scissors are cutting the middle of a leg. A transparent image of a pan is faintly seen especially to the left.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7566-shot2_1/img104.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7566-shot2_1/img109.jpg",
+        "caption": "A large brown swirl is almost fully visible in the top left corner of the image",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7566-shot2_1/img106.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7566-shot2_1/img96.jpg",
+        "caption": "Strawberries and chocolate. There is a faint picture of another image but it not clear to make out. You can make out a little bit of the flower. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7566-shot2_1/img109.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7566-shot2_1/img104.jpg",
+        "caption": "There is picture overlay with the first picture having slightly more visibility than the second. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8025-shot1_0/img17.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8025-shot1_0/img0.jpg",
+        "caption": "There is equal overlay between two pictures.  One is of a picture of a man with a hat and the other is of a man fishing. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9053-shot1_7/img362.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9053-shot1_7/img367.jpg",
+        "caption": "You can for the first time no longer see the man's left hand on the right side of the picture.  ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9053-shot1_7/img367.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9053-shot1_7/img362.jpg",
+        "caption": "You can see that there's a smaller basket in front of the basket of eggs, but you can't clearly make out what's inside. A small part of the person's hand is visible coming out of the top middle edge, but no part of the left arm or hand are visible. You can see all the cakes on the book cover, and the lower cakes are almost touching the bottom edge.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2622_7dd58b76e7c40224/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2622_7dd58b76e7c40224/img6.jpg",
+        "caption": "A hawk on a pretty thick tree branch.  It is looking right at the bottom left corner of the picture. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2622_7dd58b76e7c40224/img1.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2622_7dd58b76e7c40224/img3.jpg",
+        "caption": "A hawk on a very thin branch.  There are only two branches present.  It is looking to the right side of the picture and you can only really see one eye. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2622_7dd58b76e7c40224/img9.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2622_7dd58b76e7c40224/img7.jpg",
+        "caption": "Close up of a cute owl facing left with orange-yellow feet. It is standing on a bunch of sharp looking branches.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9651-shot1_0/img10.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9651-shot1_0/img13.jpg",
+        "caption": "No text on the object can be seen. The base of the thumb on the right hand can be seen but the pinky finger can't be seen. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9651-shot1_0/img12.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9651-shot1_0/img9.jpg",
+        "caption": "The bottom of an item with blue and white stripes is seen on the top of the image being held by two hands. You can see the thumb on the left hand and the pinky on the right hand.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot12_22/img1068.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot12_22/img1059.jpg",
+        "caption": "Only the arm and the knee of a woman with a striped shirt on the far right can be seen. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot12_22/img1073.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot12_22/img1085.jpg",
+        "caption": "The girl in the horizontal stripe hoodie has her face visible but not her hair.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8364-shot1_1/img84.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8364-shot1_1/img71.jpg",
+        "caption": "The woman's hands are both extended in front of her at chin height and she is looking directly at the camera.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8364-shot1_1/img91.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8364-shot1_1/img133.jpg",
+        "caption": "Both hands are visible. The fingers of her right hand are just in front of the red pot and its handle.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8364-shot1_1/img110.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8364-shot1_1/img147.jpg",
+        "caption": "Her eyes are squinting, no hands are visible. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7095-shot1_0/img14.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7095-shot1_0/img4.jpg",
+        "caption": "tHE SCREEN FLASHES as if lightning is striking as a man tries to lift a hammer off a mound",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1099_3488d78340f2da11/img2.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1099_3488d78340f2da11/img4.jpg",
+        "caption": "there is a plan flying low over the water with a smoke trail behind it",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1099_3488d78340f2da11/img4.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1099_3488d78340f2da11/img6.jpg",
+        "caption": "there are two yellow and red flags in this pic and an outline of mountains in the back",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2176_44a26d4273d138e5/img5.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2176_44a26d4273d138e5/img7.jpg",
+        "caption": "A large slice, about 1/4 of the whole thing, of a pie with its cut edges facing the left and bottom sides of the image.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2176_44a26d4273d138e5/img2.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2176_44a26d4273d138e5/img4.jpg",
+        "caption": "It's a single slice, it's yellow filled with red. The pie looks like it's made out of popcorn shrimp and filled with bacon strips.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7650-shot1_0/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7650-shot1_0/img8.jpg",
+        "caption": "A monkey climbs a building in the middle of a movie screen",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7650-shot1_0/img8.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7650-shot1_0/img11.jpg",
+        "caption": "There is overlay of a dragonfly going over a giant ape on a building.  You can see 3 pairs of eyes but some of them are pretty blurry. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9566-shot0_1/img166.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9566-shot0_1/img175.jpg",
+        "caption": "The butterfly is hard to see, it's under the second word and is half cut off.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9566-shot0_1/img173.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9566-shot0_1/img187.jpg",
+        "caption": "Her is left hand is cover her right wrist, dead center. The purple butterfly is covering the text.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot69_0/img15.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot69_0/img55.jpg",
+        "caption": "He is holding the bagel flat with its edge facing the camera so you can't see any grill markings. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot69_0/img29.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot69_0/img58.jpg",
+        "caption": "The person is showing the grilled side of the bagel to the camera.  The bagel is completely in the sun. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot69_0/img55.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_dBXYM3dQTSo-shot69_0/img63.jpg",
+        "caption": "The person is showing the grilled bagel to the camera.  Part of the bagel is in shadow. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8777-shot1_1/img243.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8777-shot1_1/img232.jpg",
+        "caption": "A man is standing with his arms out from his sides pointed downwards.  He has a serious look on his face.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8777-shot1_1/img253.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8777-shot1_1/img305.jpg",
+        "caption": "The man is holding his hands together and his watch's face is visible.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8777-shot1_1/img283.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8777-shot1_1/img308.jpg",
+        "caption": "The man is facing forward and this hands are not showing but he is not frowning.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8125-shot1_0/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8125-shot1_0/img4.jpg",
+        "caption": "The man's right eye is 40% visible.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8125-shot1_0/img2.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8125-shot1_0/img6.jpg",
+        "caption": "The guy is looking up and screaming. A tiny corner of the eye is cut by the left side picture border. Both eyes can still be seen visibility. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8125-shot1_0/img4.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8125-shot1_0/img7.jpg",
+        "caption": "You can only see the man's nose and cheeks.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot40_8/img484.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot40_8/img473.jpg",
+        "caption": "The woman in the blue hat and the woman in the blue tank top are facing each other. The blue hat woman has one hand visible with the palm out at head level.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot40_8/img489.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot40_8/img479.jpg",
+        "caption": "The girl in blue hat and girl in blue tanktop are doing a high five with both hands. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8955-shot3_3/img148.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8955-shot3_3/img137.jpg",
+        "caption": "Text at bottom is only just starting to fade.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0063-shot19_1/img442.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0063-shot19_1/img164.jpg",
+        "caption": "The person is holding the pitcher up with one hand, looking down at the skillet, and both her hands are visible. She is not pouring the contents out.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0063-shot19_1/img452.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0063-shot19_1/img487.jpg",
+        "caption": "The woman is holding a pitcher of liquid while stand close to and looking down towards the pan with an open mouth",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0063-shot19_1/img483.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/YouCook-video0063-shot19_1/img666.jpg",
+        "caption": "The woman is staring straight forward with the pitcher covering part of her right upper torso. Her left hand has the thumb sticking up while the other fingers are not spread apart.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7036-shot1_0/img27.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7036-shot1_0/img22.jpg",
+        "caption": "A word in yellow and a word in blue are in the bottom corner of the image",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7036-shot1_0/img110.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7036-shot1_0/img132.jpg",
+        "caption": "The word in blue has disappeared but the word in red and yellow is still vislble. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2526_07168590a17ecdfd/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2526_07168590a17ecdfd/img2.jpg",
+        "caption": "A pumpkin is lit with a portion of the flame showing in the very middle and the majority of the middle portion of the pumpkin carved out in a strange shape",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2526_07168590a17ecdfd/img9.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2526_07168590a17ecdfd/img7.jpg",
+        "caption": "A carving with a ghost with two eyes and it's hands out with the fingers pointing down.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_9/img1112.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_9/img1127.jpg",
+        "caption": "The woman in camoflage's head is tilted back. You can see her closed eyes and headband,  and it looks like she has a cracker in her mouth. The two girls behind her are positioned so it looks like one of the girls is kissing the top of the other girl's head.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_9/img1119.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_9/img1139.jpg",
+        "caption": "You can see most of the girl's face that has a blue shirt on.  Her feet are spread far apart and her right heel is off the ground. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_9/img1127.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videocamping_1OzbiB1TIWI-shot14_9/img1143.jpg",
+        "caption": "The girl in blue is to the left of the girl in the middle with the purple shoes. The girl in blue is not obscured in any way.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8931-shot1_1/img291.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8931-shot1_1/img330.jpg",
+        "caption": "The white ghost character with a black eye is in back of the 2nd word of blue text at the bottom. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8931-shot1_1/img300.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8931-shot1_1/img276.jpg",
+        "caption": "The ghost character with the black eye is above the third word of blue text at the bottom. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8931-shot1_1/img330.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8931-shot1_1/img396.jpg",
+        "caption": "There is a guy punching at the screen above the text at the bottom.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8212-shot1_3/img270.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8212-shot1_3/img267.jpg",
+        "caption": "There are no stars visible.  Two fingers on different hands are the closest to each other. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8212-shot1_3/img273.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8212-shot1_3/img268.jpg",
+        "caption": "Both thumbs are touching the bow with space between them. The top of the bow is blurry. The pinkie and ring finger are visible in the background with the tip of the pinkie slightly cut off by the bow.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8781-shot0_1/img263.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video8781-shot0_1/img256.jpg",
+        "caption": "The Beast hands are around the lady's shoulder and almost touching each other.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videochristmas_5RR_sRzKODA-shot24_0/img38.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/video-storytelling-videochristmas_5RR_sRzKODA-shot24_0/img34.jpg",
+        "caption": "The phone case is tipped back towards the person's face the most.  You can see the side of the case clearly. ",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1273_17ef76c831cf65d2/img7.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1273_17ef76c831cf65d2/img9.jpg",
+        "caption": "A card of a magician ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1273_17ef76c831cf65d2/img1.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1273_17ef76c831cf65d2/img3.jpg",
+        "caption": "There is a person wearing dark jeans and brown boots. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1273_17ef76c831cf65d2/img5.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-1273_17ef76c831cf65d2/img3.jpg",
+        "caption": "A picture of a man pointing at you with some text below the man. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7599-shot1_0/img208.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7599-shot1_0/img277.jpg",
+        "caption": "There is a boy with a green shirt on the far right side of the image and you can see most of his body except for his left hand.  There is a woman with a blue swimsuit walking in from the left and she has her left hand on her right shoulder. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7599-shot1_0/img250.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7599-shot1_0/img136.jpg",
+        "caption": "There is a woman with blue on who is standing on the mat with both feet.  Her left hand is at her right elbow. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7599-shot1_0/img277.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7599-shot1_0/img301.jpg",
+        "caption": "The woman's forearm is parallel to the bottom and top edges of the frame. She is facing towards our right with both feet on the mat, and is not giving or about to give a high five.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2226_45d30256cf7f5884/img4.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2226_45d30256cf7f5884/img6.jpg",
+        "caption": "a close up shot of a glass with the very bottom of it filled with an amber liquid",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2226_45d30256cf7f5884/img0.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2226_45d30256cf7f5884/img2.jpg",
+        "caption": "A copper kettle on the left and a half full iced tea with a straw sticking out on the right.",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2226_45d30256cf7f5884/img9.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/open-images-2226_45d30256cf7f5884/img7.jpg",
+        "caption": "It looks like the base of a lava lamp. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7285-shot1_0/img533.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7285-shot1_0/img549.jpg",
+        "caption": "The soup is shadowed and a small portion of the white bowl is visible at the top.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7285-shot1_0/img540.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7285-shot1_0/img474.jpg",
+        "caption": "About three quarters of the white bowl is visible on top of the steaming pot.",
+        "label": "image1",
+        "answer": "image2"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7285-shot1_0/img549.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video7285-shot1_0/img533.jpg",
+        "caption": "The white dish is almost completely visible but the hand holding it is barely visible. ",
+        "label": "image1",
+        "answer": "image1"
+    },
+    {
+        "img1": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9556-shot3_2/img146.jpg",
+        "img2": "/kaggle/input/imagecode-simple/image-sets/image-sets/MSR-VTT-videoTestVideo_video9556-shot3_2/img153.jpg",
+        "caption": "The red bar in front has almost completely covered the red bar in back.  You can just see a bit of the text on the red bar in back. ",
+        "label": "image1",
+        "answer": "image1"
+    }
+]
