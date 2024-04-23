@@ -14,6 +14,10 @@ This runs the model from a pre-trained checkpoint from HuggingFace. In the pytho
 
 This is just an API call using the Google Cloud VertexAI API. To use it, you can replace the project name with your own after authenticating.
 
+#### Data
+
+The image data can be found on Benno Krojer's github: https://github.com/McGill-NLP/imagecode/tree/main
+
 #### Results Evaluation
 
 Run accuracy_test.py on the code, the results should a JSON with formatted as such:
